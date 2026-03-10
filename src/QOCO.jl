@@ -15,6 +15,6 @@ function __init__()
 end
 
 include("c_api.jl")
-include(joinpath("MOI_wrapper", "MOI_wrapper.jl"))
+include("MOI_wrapper.jl")
 
 end # module QOCO
