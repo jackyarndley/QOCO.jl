@@ -22,7 +22,7 @@ it directly from GitHub:
 
 ```julia
 import Pkg
-Pkg.add(url = "https://github.com/jackyarndley/QOCO.jl.git")
+Pkg.add(url = "https://github.com/qoco-org/QOCO.jl.git")
 ```
 
 This also installs the bundled `QOCO_jll` binaries, so you do not need to
